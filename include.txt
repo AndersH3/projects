@@ -1,0 +1,4 @@
+IQ-test-differences https://github.com/AndersH3/IQ-test-differences
+Scoring https://github.com/AndersH3/Scoring
+MetS https://github.com/AndersH3/MetS
+Simulation https://github.com/AndersH3/Simulation
